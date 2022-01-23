@@ -1,0 +1,27 @@
+.background-container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border:1px solid red;
+    height:100vh;
+} 
+
+.card-container{
+    display:flex;
+    flex-direction: column;
+    margin:15px;
+    /* border:1px solid green; */
+}
+.input-card{
+    padding:15px;
+} 
+button{
+    margin-top: 10px;
+    height:40px;
+    text-align:center; 
+    margin-left:center;
+} 
+input{
+    margin-left: 10px;
+}
